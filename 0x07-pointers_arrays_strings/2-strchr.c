@@ -1,5 +1,5 @@
 /**
- * _strchr - a function that locates a character in a string
+11;rgb:0000/0000/0000* _strchr - a function that locates a character in a string
 11;rgb:0000/0000/0000 *
 * @s: pointer to our string array input
 * @c: character to locate from input array
